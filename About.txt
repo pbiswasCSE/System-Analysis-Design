@@ -1,0 +1,10 @@
+System Analysis and Design is the process of understanding a problem and creating a solution — usually in the form of a computer-based system (software).
+
+It helps developers understand:
+
+What the user wants
+
+How the current system works (if any)
+
+How to design a new system to solve the problem
+
